@@ -57,7 +57,7 @@ It leverages **content-based filtering**, **collaborative filtering**, and **mac
 ## 📊 Evaluation Metrics
 
 - **RMSE (Root Mean Squared Error)** for rating prediction accuracy.  
-- **Precision@K / Recall@K** for recommendation performance.  
+- **Precision / Recall** for recommendation performance.  
 - **User Satisfaction Metrics** (qualitative evaluation).
 
 ---
